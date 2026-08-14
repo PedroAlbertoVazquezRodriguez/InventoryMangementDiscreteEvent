@@ -1,0 +1,2 @@
+scenario,replica,strategy,n_techs,lambda_orders,misplacement_rate,mean_search_time,p95_search_time,error_rate,orders_processed,orders_failed,avg_utilization,total_orders,mean_queue_length,max_queue_length,total_steps_walked,mean_steps_walked,timestamp
+comparison_by_lot,1,by_lot,2,0.5,0.0,25.96,48.0,0.0,5,0,13.520833333333334,5,0.0,0,195.85072236070536,39.170144472141075,2025-11-18T18:28:48.253976
