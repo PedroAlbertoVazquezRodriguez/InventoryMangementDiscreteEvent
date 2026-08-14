@@ -63,7 +63,7 @@ python experiments/run_experiment.py --scenario baseline --replicas 10
 ## Estructura del Proyecto
 
 ```
-ErardoProto/
+InventoryMangementDiscreteEvent/
 ├── data/                  # Base de datos SQLite
 ├── sim/                   # Motor de simulación
 │   └── sim_core.py
